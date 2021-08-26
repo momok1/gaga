@@ -1,11 +1,18 @@
 title{
     color:sienna;
 }
+p1{
+    color:brown;
+}
 p{
-    color:red;
+    color:blueviolet;
     text-align:center;
     margin-left:20px;
+
   }
 body{
-    background-image: url('bg.jfif');
+    background-image: url('bg.jpg');
+    background-color: lightblue;
+    background-repeat: no-repeat;
+    background-size: 100% 150%;
 }
